@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyedAzlanzar
 - 👀 I’m interested in building logical solution of mordern world problems.
-- 🌱 I’m currently learning Sql and React.
+- 🌱 Hands on React js | Nextjs | Node js with express | Tailwind | MUI 
 - 📫 How to reach me syedazlan.emcr@gmail.com
 
 <!---
