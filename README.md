@@ -23,6 +23,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,express,figma,firebase,github,graphql,materialui,mongodb,mysql,nestjs,postgres,react,redux,sass,supabase,tailwind,ts,vercel,nextjs,docker)](https://skillicons.dev)
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=azlanzar&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%; height: 60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SyedAzlanzar&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%; height: 60%" />
 
 
