@@ -43,33 +43,9 @@ I'm a self-driven full stack developer focused on building fast, scalable, and u
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedAzlanzar&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAzlanzar&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SyedAzlanzar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📈 Contribution Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SyedAzlanzar&bg_color=1a1b27&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SyedAzlanzar&theme=onestar&margin-w=10&no-frame=true" />
-</p>
 
 ---
 
