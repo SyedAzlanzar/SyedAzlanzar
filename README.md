@@ -17,7 +17,7 @@ I'm a self-driven full stack developer focused on building fast, scalable, and u
 
 - ⚙️ APIs with **Nest.js** + PostgreSQL
 - 🚀 Deploying full-stack apps on **Vercel**
-- 🧪 Exploring **Docker**, **CI/CD**, and **microservices**
+- 🧪 Exploring **Docker**, **CI/CD**, **microservices** and **python**
 
 ---
 
