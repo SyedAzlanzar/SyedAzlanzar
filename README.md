@@ -39,7 +39,7 @@ I'm a self-driven full stack developer focused on building fast, scalable, and u
 
 ### 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,nestjs,express,mongodb,mysql,postgres,docker,tailwind,sass,redux,graphql,firebase,supabase,vercel,materialui,figma,github,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,nestjs,express,cpp,mongodb,mysql,postgres,docker,tailwind,sass,redux,graphql,firebase,supabase,vercel,materialui,figma,github,bootstrap,cypress)](https://skillicons.dev)
 
 ---
 
